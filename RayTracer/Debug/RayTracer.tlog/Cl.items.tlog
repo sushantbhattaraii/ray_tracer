@@ -1,0 +1,11 @@
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\Application.cpp;C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\RayTracer\Debug\Application.obj
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\common\math3d.cpp;C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\RayTracer\Debug\math3d.obj
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\Imageio\Imageio.cpp;C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\RayTracer\Debug\Imageio.obj
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\Main.cpp;C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\RayTracer\Debug\Main.obj
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\primitives\Sphere.cpp;C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\RayTracer\Debug\Sphere.obj
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\primitives\Triangle.cpp;C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\RayTracer\Debug\Triangle.obj
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\primitives\Wall.cpp;C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\RayTracer\Debug\Wall.obj
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\Ray_Tracer.cpp;C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\RayTracer\Debug\Ray_Tracer.obj
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\scene\Light.cpp;C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\RayTracer\Debug\Light.obj
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\scene\Scene.cpp;C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\RayTracer\Debug\Scene.obj
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\scene\view_plane.cpp;C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\RayTracer\Debug\view_plane.obj

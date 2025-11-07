@@ -1,0 +1,46 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Application.cpp
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\primitives\Sphere.h(11,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../Application.cpp')
+  
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\primitives\Sphere.h(18,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../Application.cpp')
+  
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\primitives\Sphere.h(19,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../Application.cpp')
+  
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\primitives\Sphere.h(20,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../Application.cpp')
+  
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\primitives\Sphere.h(25,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../Application.cpp')
+  
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\primitives\Wall.h(24,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../Application.cpp')
+  
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\primitives\Wall.h(26,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../Application.cpp')
+  
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\primitives\Wall.h(52,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../Application.cpp')
+  
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\primitives\Wall.h(53,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../Application.cpp')
+  
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\Application.cpp(51,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\Application.cpp(63,2): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\Application.cpp(79,2): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\Application.cpp(31,6): warning C4101: 'dummy': unreferenced local variable
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\Application.cpp(32,9): warning C4101: 'j': unreferenced local variable
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\Application.cpp(32,6): warning C4101: 'i': unreferenced local variable
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\Application.cpp(121,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\Application.cpp(101,7): warning C4101: 'imageType': unreferenced local variable
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\Application.cpp(102,6): warning C4101: 'dummy': unreferenced local variable
+C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\Application.cpp(101,21): warning C4101: 'str': unreferenced local variable
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Scene.cpp
+  Wall.cpp
+  Ray_Tracer.cpp
+  Main.cpp
+  RayTracer.vcxproj -> C:\Users\sussa\OneDrive - Kent State University\Desktop\ray_tracer\Debug\RayTracer.exe
